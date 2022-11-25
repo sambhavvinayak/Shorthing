@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class shorting {
-
+    
     public static void main(String[] args) {
         Scanner input =new Scanner(System.in);
         System.out.print("write your array size : ");
